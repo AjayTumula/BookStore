@@ -1,0 +1,642 @@
+D:\BookStore-master\bin\Debug\net5.0\appsettings.Development.json
+D:\BookStore-master\bin\Debug\net5.0\appsettings.json
+D:\BookStore-master\bin\Debug\net5.0\BookStore.StaticWebAssets.xml
+D:\BookStore-master\bin\Debug\net5.0\BookStore.exe
+D:\BookStore-master\bin\Debug\net5.0\BookStore.deps.json
+D:\BookStore-master\bin\Debug\net5.0\BookStore.runtimeconfig.json
+D:\BookStore-master\bin\Debug\net5.0\BookStore.runtimeconfig.dev.json
+D:\BookStore-master\bin\Debug\net5.0\BookStore.dll
+D:\BookStore-master\bin\Debug\net5.0\BookStore.pdb
+D:\BookStore-master\bin\Debug\net5.0\BookStore.Views.dll
+D:\BookStore-master\bin\Debug\net5.0\BookStore.Views.pdb
+D:\BookStore-master\bin\Debug\net5.0\Humanizer.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\BookStore-master\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\BookStore-master\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\BookStore-master\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\BookStore-master\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\BookStore-master\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\BookStore-master\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\BookStore-master\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\BookStore-master\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\BookStore-master\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\BookStore-master\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BookStore-master\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\BookStore-master\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\BookStore-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore-master\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BookStore-master\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BookStore-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookStore-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BookStore-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookStore-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BookStore-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookStore-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BookStore-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookStore-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BookStore-master\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\BookStore-master\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\BookStore-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BookStore-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BookStore-master\obj\Debug\net5.0\BookStore.csproj.AssemblyReference.cache
+D:\BookStore-master\obj\Debug\net5.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookStore-master\obj\Debug\net5.0\BookStore.AssemblyInfoInputs.cache
+D:\BookStore-master\obj\Debug\net5.0\BookStore.AssemblyInfo.cs
+D:\BookStore-master\obj\Debug\net5.0\BookStore.csproj.CoreCompileInputs.cache
+D:\BookStore-master\obj\Debug\net5.0\BookStore.MvcApplicationPartsAssemblyInfo.cs
+D:\BookStore-master\obj\Debug\net5.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+D:\BookStore-master\obj\Debug\net5.0\BookStore.RazorAssemblyInfo.cache
+D:\BookStore-master\obj\Debug\net5.0\BookStore.RazorAssemblyInfo.cs
+D:\BookStore-master\obj\Debug\net5.0\scopedcss\bundle\BookStore.styles.css
+D:\BookStore-master\obj\Debug\net5.0\staticwebassets\BookStore.StaticWebAssets.Manifest.cache
+D:\BookStore-master\obj\Debug\net5.0\staticwebassets\BookStore.StaticWebAssets.xml
+D:\BookStore-master\obj\Debug\net5.0\BookStore.TagHelpers.input.cache
+D:\BookStore-master\obj\Debug\net5.0\BookStore.TagHelpers.output.cache
+D:\BookStore-master\obj\Debug\net5.0\BookStore.RazorCoreGenerate.cache
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\AddRole.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\DeleteRole.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\EditRole.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\EditUsersInRole.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\Error.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\ListAllRoles.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Books\Create.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Books\Delete.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Books\Details.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Books\Edit.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Store\Details.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\Store\Index.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\BookStore-master\obj\Debug\net5.0\BookStore.RazorTargetAssemblyInfo.cache
+D:\BookStore-master\obj\Debug\net5.0\BookStore.RazorTargetAssemblyInfo.cs
+D:\BookStore-master\obj\Debug\net5.0\BookStore.Views.pdb
+D:\BookStore-master\obj\Debug\net5.0\BookStore.csproj.CopyComplete
+D:\BookStore-master\obj\Debug\net5.0\BookStore.dll
+D:\BookStore-master\obj\Debug\net5.0\refint\BookStore.dll
+D:\BookStore-master\obj\Debug\net5.0\BookStore.pdb
+D:\BookStore-master\obj\Debug\net5.0\BookStore.genruntimeconfig.cache
+D:\BookStore-master\obj\Debug\net5.0\ref\BookStore.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\appsettings.json
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\BookStore.StaticWebAssets.xml
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\BookStore.exe
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\BookStore.deps.json
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\BookStore.runtimeconfig.json
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\BookStore.runtimeconfig.dev.json
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\BookStore.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\BookStore.pdb
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\BookStore.Views.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\BookStore.Views.pdb
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.csproj.AssemblyReference.cache
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.AssemblyInfo.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.RazorAssemblyInfo.cache
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.RazorAssemblyInfo.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\scopedcss\bundle\BookStore.styles.css
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\staticwebassets\BookStore.StaticWebAssets.Manifest.cache
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\staticwebassets\BookStore.StaticWebAssets.xml
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.TagHelpers.input.cache
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.TagHelpers.output.cache
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.RazorCoreGenerate.cache
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\AddRole.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\DeleteRole.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\EditRole.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\EditUsersInRole.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\Error.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\ListAllRoles.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Books\Create.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Books\Delete.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Books\Details.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Books\Edit.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Store\Details.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\Store\Index.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.RazorTargetAssemblyInfo.cache
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.RazorTargetAssemblyInfo.cs
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.Views.pdb
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.csproj.CopyComplete
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\refint\BookStore.dll
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.pdb
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\BookStore.genruntimeconfig.cache
+C:\Users\ajayt\Downloads\BookStore_Latest\BookStore-master\obj\Debug\net5.0\ref\BookStore.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\appsettings.json
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\BookStore.StaticWebAssets.xml
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\BookStore.exe
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\BookStore.deps.json
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\BookStore.runtimeconfig.json
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\BookStore.runtimeconfig.dev.json
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\BookStore.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\BookStore.pdb
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\BookStore.Views.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\BookStore.Views.pdb
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.csproj.AssemblyReference.cache
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.AssemblyInfo.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.RazorAssemblyInfo.cache
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.RazorAssemblyInfo.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\scopedcss\bundle\BookStore.styles.css
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\staticwebassets\BookStore.StaticWebAssets.Manifest.cache
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\staticwebassets\BookStore.StaticWebAssets.xml
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.TagHelpers.input.cache
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.TagHelpers.output.cache
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.RazorCoreGenerate.cache
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\AddRole.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\DeleteRole.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\EditRole.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\EditUsersInRole.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\Error.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Admin\ListAllRoles.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Books\Create.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Books\Delete.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Books\Details.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Books\Edit.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Store\Details.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\Store\Index.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.RazorTargetAssemblyInfo.cache
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.RazorTargetAssemblyInfo.cs
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.Views.pdb
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.csproj.CopyComplete
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\refint\BookStore.dll
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.pdb
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\BookStore.genruntimeconfig.cache
+C:\Users\ajayt\Downloads\BookStore-master (1)\BookStore-master\obj\Debug\net5.0\ref\BookStore.dll
