@@ -1,4 +1,6 @@
 # BookStore
-This is a simple web application developed using C#, Microsoft ASP.NET core, and SQL Server which allows user to view the books availabl and and add it to the cart. 
+Online Bookstore Management System
+
+This is a simple web application developed using C#, Microsoft ASP.NET core, and SQL Server which allows user to view the books available and add it to the cart. 
 
 Prerequisites: You need to have VisualStudio 2022 isntalled on your machine.
